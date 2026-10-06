@@ -1,0 +1,15 @@
+# Runtime parameters — loaded by AgentRegistry, passed as Graph(config=...).
+# Separate from config/agent.yaml (the static manifest).
+
+max_retry: 3
+timeout_s: 30
+
+# Retrieval tuning for the inner domain workflow. RegulationKnowledgeGraphNode
+# forwards this block under config["configurable"]["retrieval"]; RetrieveNode and
+# RerankFilterNode read top_k / score_threshold from there. The module defaults
+# in those nodes mirror these values and are used only when this file cannot be
+# read (a unit test that constructs a node in isolation, for example).
+retrieval:
+  top_k: 4
+  score_threshold: 0.25
+  kb_path: "config/kb/gov_regulations_kb.json"

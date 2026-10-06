@@ -1,0 +1,98 @@
+[
+  {
+    "id": "gov-001",
+    "title": "Public Records and Archives Management Act — Retention of Administrative Documents",
+    "category": "act",
+    "source": "Public Records and Archives Management Act (Act No. 66 of 2009), Article 5",
+    "content": "Administrative organs must set a retention period for each administrative document based on its classification and must not dispose of a document before its retention period expires. Retention periods are determined by the nature and importance of the document and recorded in the organ's document management rule; documents due for permanent retention must be transferred to the National Archives rather than destroyed.",
+    "tags": ["retention", "records", "archives", "administrative records", "document management", "disposal"]
+  },
+  {
+    "id": "gov-002",
+    "title": "Public Records and Archives Management Act — Document Management Rules",
+    "category": "act",
+    "source": "Public Records and Archives Management Act (Act No. 66 of 2009), Article 10",
+    "content": "Each administrative organ must establish document management rules covering the creation, classification, retention period, and transfer or disposal of administrative documents, and must report these rules to the Prime Minister. The rules must be made available for public inspection.",
+    "tags": ["document management rules", "records", "archives", "transparency", "public inspection"]
+  },
+  {
+    "id": "gov-003",
+    "title": "Act on Access to Information Held by Administrative Organs — Disclosure Requests",
+    "category": "act",
+    "source": "Act on Access to Information Held by Administrative Organs (Act No. 42 of 1999), Article 3",
+    "content": "Any person may request the head of an administrative organ to disclose administrative documents held by that organ. The organ must generally decide whether to disclose within 30 days of the request, and may extend this period by a further 30 days for reasonable cause.",
+    "tags": ["information disclosure", "foia", "public records", "access to information", "transparency"]
+  },
+  {
+    "id": "gov-004",
+    "title": "Act on Access to Information Held by Administrative Organs — Non-Disclosure Grounds",
+    "category": "act",
+    "source": "Act on Access to Information Held by Administrative Organs (Act No. 42 of 1999), Article 5",
+    "content": "An administrative organ may withhold all or part of a requested document where disclosure would identify a specific individual, harm national security or international relations, impede a criminal investigation, or disrupt the deliberation or execution of administrative affairs.",
+    "tags": ["information disclosure", "non-disclosure", "exemptions", "personal information", "national security"]
+  },
+  {
+    "id": "gov-005",
+    "title": "Act on the Protection of Personal Information Held by Administrative Organs — Purpose Limitation",
+    "category": "act",
+    "source": "Act on the Protection of Personal Information (Act No. 57 of 2003, as amended), Article 61",
+    "content": "Administrative organs must not use or provide retained personal information for any purpose other than that for which it was obtained, except where the individual consents, the use is required by law, or the use is necessary to protect a person's life, body, or property.",
+    "tags": ["personal information", "privacy", "purpose limitation", "data protection", "consent"]
+  },
+  {
+    "id": "gov-006",
+    "title": "Administrative Procedure Act — Standard Processing Periods",
+    "category": "act",
+    "source": "Administrative Procedure Act (Act No. 88 of 1993), Article 6",
+    "content": "An administrative organ should establish and make public a standard processing period for each type of application, and should endeavor to process the application within that period from the time it is received.",
+    "tags": ["administrative procedure", "processing period", "applications", "licensing"]
+  },
+  {
+    "id": "gov-007",
+    "title": "Administrative Procedure Act — Reasons for Adverse Dispositions",
+    "category": "act",
+    "source": "Administrative Procedure Act (Act No. 88 of 1993), Article 8",
+    "content": "When an administrative organ refuses an application, it must simultaneously present the applicant with the reasons for the refusal, except in cases specifically exempted by law. Reasons must be specific enough for the applicant to understand the basis for the decision.",
+    "tags": ["administrative procedure", "adverse disposition", "reasons", "due process"]
+  },
+  {
+    "id": "gov-008",
+    "title": "Cabinet Order for Enforcement of the Public Records and Archives Management Act — Retention Period Categories",
+    "category": "cabinet_order",
+    "source": "Cabinet Order No. 250 of 2010, Article 8",
+    "content": "This Cabinet Order sets standard retention-period categories for administrative documents (1, 3, 5, 10, 30 years, and permanent), and requires each administrative organ to assign every document classification to one of these categories in its document management rule.",
+    "tags": ["retention", "cabinet order", "records", "archives", "document management"]
+  },
+  {
+    "id": "gov-009",
+    "title": "Guidelines on the Management of Administrative Documents — Classification at Creation",
+    "category": "administrative_guidance",
+    "source": "Cabinet Office Guidelines on the Management of Administrative Documents (as revised)",
+    "content": "The guidelines direct officials to classify a document and assign a retention period at the time of its creation or acquisition, not retroactively, and to record the classification in the document management ledger so the retention schedule is traceable and auditable.",
+    "tags": ["guidelines", "administrative guidance", "document management", "records", "classification"]
+  },
+  {
+    "id": "gov-010",
+    "title": "Ministerial Ordinance on Administrative Document Management Standards — Electronic Records",
+    "category": "ministerial_ordinance",
+    "source": "Ministerial Ordinance on Administrative Document Management Standards, Article 4",
+    "content": "Where an administrative document is created or held in electronic form, the retention and transfer obligations under the Public Records and Archives Management Act apply equally to the electronic record, and the record must remain readable and unaltered for the duration of its retention period.",
+    "tags": ["electronic records", "ministerial ordinance", "records", "archives", "retention"]
+  },
+  {
+    "id": "gov-011",
+    "title": "National Public Service Act — Duty of Confidentiality",
+    "category": "act",
+    "source": "National Public Service Act (Act No. 120 of 1947), Article 100",
+    "content": "A public official must not divulge any secret that has come to their knowledge in the course of their duties, and this duty continues even after the official leaves the service.",
+    "tags": ["public service", "confidentiality", "civil servants", "secrecy"]
+  },
+  {
+    "id": "gov-012",
+    "title": "Act on Access to Information Held by Independent Administrative Agencies — Disclosure Requests",
+    "category": "act",
+    "source": "Act on Access to Information Held by Independent Administrative Agencies (Act No. 140 of 2001), Article 3",
+    "content": "The disclosure request framework for information held by independent administrative agencies mirrors the Act on Access to Information Held by Administrative Organs, extending the same disclosure-request right to documents held by incorporated administrative agencies.",
+    "tags": ["information disclosure", "independent administrative agencies", "access to information"]
+  }
+]
